@@ -1,6 +1,6 @@
-# Simple Selenium Example
+# Selenium Guidelines Practice
 
-*A pretty simple python-Selenium example tested on Google homepage(www.google.com). The project mainly focuses on **applying 3 officially recommended design suggestions** proposed by the Guidelines(https://www.selenium.dev/documentation/en/guidelines_and_recommendations/) to a real-use .*
+*A simple Selenium example **applying 3 officially recommended design suggestions** proposed by the Guidelines(https://www.selenium.dev/documentation/en/guidelines_and_recommendations/), using Python language and tested on Google homepage(www.google.com).*
 
 Here are 2 main motivations for this project:
 
